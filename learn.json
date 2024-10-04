@@ -1,0 +1,19 @@
+{
+  "title": {
+    "us": "Sensitive Data Analysis in a Fictional Organization",
+    "es": "Análisis de Datos Sensibles en una Organización Ficticia"
+  },
+  "slug": "sensitive-data-analysis-dlp-cybersecurity-project",
+  "status": "published",
+  "duration": 3,
+  "preview": "https://raw.githubusercontent.com/breatheco-de/sensitive-data-analysis-dlp-cybersecurity-project/refs/heads/main/assets/preview.jpg",
+  "translations": ["es", "us"],
+  "difficulty": "intermediate",
+  "technologies": ["dlp", "data-analysis", "cybersecurity"],
+  "description": {
+    "us": "Conduct a sensitive data analysis for a fictional organization. Identify and classify sensitive data types, map data flows, and identify risk points. Learn essential skills for implementing effective DLP strategies.",
+    "es": "Realiza un análisis de datos sensibles para una organización ficticia. Identifica y clasifica tipos de datos sensibles, mapea flujos de datos e identifica puntos de riesgo. Aprende habilidades esenciales para implementar estrategias efectivas de DLP."
+  },
+  "autoPlay": false,
+  "projectType": "project"
+}
