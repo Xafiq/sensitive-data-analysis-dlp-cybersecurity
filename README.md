@@ -9,7 +9,7 @@ In this project, you will conduct a sensitive data analysis for a fictional orga
 ## Background 📚
 TechCorp Inc. is a mid-sized software development company with 200 employees. They develop custom software solutions for various industries, including finance, healthcare, and e-commerce. 
 
-Carefully examine the following document [TechCorp Inc. Company Overview](https://github.com/breatheco-de/sensitive-data-analysis-dlp-cybersecurity-project/blob/main/assets/company-overview.pdf). This document contains detailed information about the company's:
+Carefully examine the following document [TechCorp Inc. Company Overview](https://github.com/breatheco-de/sensitive-data-analysis-dlp-cybersecurity-project/blob/main/assets/company-overview.pdf?raw=true). This document contains detailed information about the company's:
 
 - Organizational structure 🏗️
 - Department functions and responsibilities 👥
@@ -81,4 +81,4 @@ Prepare a brief report (1-2 pages) summarizing your analysis. Include:
 This project will help you understand the process of identifying sensitive data within an organization and recognizing potential risk points. These skills are crucial for implementing effective DLP strategies in real-world scenarios.
 
 ## Additional Resources 📚
-- [TechCorp Inc. Company Overview PDF](https://github.com/breatheco-de/sensitive-data-analysis-dlp-cybersecurity-project/blob/main/assets/company-overview.pdf)
+- [TechCorp Inc. Company Overview PDF](https://github.com/breatheco-de/sensitive-data-analysis-dlp-cybersecurity-project/blob/main/assets/company-overview.pdf?raw=true)
