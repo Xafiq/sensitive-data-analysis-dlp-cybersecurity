@@ -1,5 +1,7 @@
 # 🕵️‍♀️🏢 Sensitive Data Analysis in a Fictional Organization 
 
+> ⚠️ **Disclaimer:** This project is currently in beta. The instructor reserves the right to modify any of its goals or deliverables at their discretion.
+
 ## Objective 🎯
 
 In this project, you will conduct a sensitive data analysis for a fictional organization, "TechCorp Inc." Your goal is to identify and classify types of sensitive data within the organization and map out data flows and risk points.
